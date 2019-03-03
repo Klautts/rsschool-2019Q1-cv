@@ -1,1 +1,1 @@
-https://github.com/Klautts/rsschool-2019Q1-cv/cv
+https://Klautts.io/rsschool-2019Q1-cv/cv.

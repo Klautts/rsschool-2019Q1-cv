@@ -31,3 +31,18 @@ main{
     margin: 20px 0 0 0;
     text-align: center;
 }
+h3{
+    font-size: 20px;
+}
+p{  
+    
+    line-height: 1.5;
+    font-size: 15px;
+}
+a{
+    color: #3f1b1b;
+    text-decoration: none;
+}
+a:hover{
+    color: #a1a143;
+}

@@ -11,7 +11,7 @@
 main{
     background: url(../img/bear.jpg) center  no-repeat;
     height: 540px;
-    max-width: 800px;
+    max-width: 800px
     margin: 0 auto;   
 }
 .tit{

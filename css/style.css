@@ -1,0 +1,33 @@
+.container{
+    background: #f7f5f6;
+    max-width: 1020px;
+    height: 600px; 
+    text-align: center;
+    color: rgb(0, 0, 0);   
+    margin: 0 auto;
+    font-family: 'Sunflower', sans-serif;
+    font-size: 30px;    
+}
+main{
+    background: url(../img/bear.jpg) center  no-repeat;
+    height: 540px;
+    max-width: 800px;
+    margin: 0 auto;   
+}
+.tit{
+       padding-top: 22px;
+}
+.face{
+    border-radius: 10px;
+    float: left;
+    margin: 20px;
+    width: 250px;
+    height: 300px;
+    background: url("../img/face.png") center center no-repeat;
+}
+.info_people{
+    max-width: 500px;
+    float: left;
+    margin: 20px 0 0 0;
+    text-align: center;
+}
